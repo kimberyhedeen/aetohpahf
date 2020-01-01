@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oogeithoo.0xbc.blog/sitemap.xml
